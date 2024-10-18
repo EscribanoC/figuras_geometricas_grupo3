@@ -22,7 +22,7 @@ En este ejercicio, los estudiantes trabajarán en equipo para desarrollar una ap
 Con sus respectivos usuarios de Github
 
 - **Carlos Escribano** (EscribanoC)
-- **Paula Dominguez** ()
+- **Paula Dominguez** (paulaminguez14)
 - **Jesús González** (jegoncu)
 
 ### Reparto de Tareas:
@@ -39,5 +39,3 @@ Con sus respectivos usuarios de Github
 -[] Circulo
 -[] Cuadrado
 -[] Triangulo
-
-Prueba de cambio.
