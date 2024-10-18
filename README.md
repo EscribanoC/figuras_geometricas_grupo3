@@ -39,3 +39,11 @@ Con sus respectivos usuarios de Github
 -[] Circulo
 -[] Cuadrado
 -[] Triangulo
+
+### Log
+#### - 18/10/24: 
+Inicio de la práctica en clase. Se ha creado el repositorio y se ha invitado a colaborar al resto de miembros. Se ha clonado el repositorio y creado ramas independientes para crear las clases *punto* y *FiguraGeometrica*, además de para probar el funcionamiento de la colaboración de github. 
+
+Hemos tenido problemas para hacer pull request desde la terminal ya que al seguir las instrucciones dadas en la práctica, se nos pide usuario y contraseña de Github al intentar realizar el pull dándonos un error después. De momento estamos trabajando con la aplicación de escritorio para solventar este problema.
+
+Además no sabemos configurar los permisos del repositorio, con lo que ahora mismo un mismo usuario puede hacer un pull request y aceptarselo él mismo, a loq ue no le vemos mucho sentido.
