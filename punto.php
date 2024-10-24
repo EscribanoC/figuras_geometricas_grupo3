@@ -1,5 +1,4 @@
 <?php
-
 class Punto{
     //Atributos
     private $x;
