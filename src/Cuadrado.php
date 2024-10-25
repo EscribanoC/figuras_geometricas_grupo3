@@ -6,8 +6,8 @@
         private $esquina;
 
         // Constructor que recibe el punto y el lado del cuadrado
-        public function __construct(Punto $punto, float $lado) {
-            parent::__construct($punto);
+        public function __construct(Punto $esquina, float $lado) {
+            parent::__construct($esquina);
             $this->lado = $lado;
         }
 
