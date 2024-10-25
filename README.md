@@ -31,7 +31,7 @@ Con sus respectivos usuarios de Github
 - Carlos escribe la clase *punto*
 - Jesús escribe el README.md dónde se registrará el desarrollo de la tarea.
 - Jesús escribe la clase abstracta *figura geometrica*
-- Paula realiza la clase círculo, que extiende ded figura geométrica, y un test para asegurar que funciona
+- Paula añade la clase círculo, que extiende ded figura geométrica, y un test para asegurar que funciona
 - Paula realiza la clase cuadrado y un test para asegurar que funciona
 
 #### Clases a repartir
