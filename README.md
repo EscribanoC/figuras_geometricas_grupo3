@@ -33,6 +33,7 @@ Con sus respectivos usuarios de Github
 - Jesús escribe la clase abstracta *figura geometrica*
 - Paula añade la clase círculo, que extiende ded figura geométrica, y un test para asegurar que funciona
 - Paula realiza la clase cuadrado y un test para asegurar que funciona
+- Jesús corrige la clase Circulo
 
 #### Clases a repartir
 
