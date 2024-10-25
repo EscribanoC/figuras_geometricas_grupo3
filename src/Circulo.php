@@ -27,4 +27,3 @@ class Circulo extends FiguraGeometrica{
         return 2 * pi() * $this->radio;
     }
 }
-//comentario
