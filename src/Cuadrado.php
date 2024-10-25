@@ -1,6 +1,6 @@
 <?php
     include_once('FiguraGeometrica.php');
-    include_once('punto.php');
+    include_once('Punto.php');
     class Cuadrado extends FiguraGeometrica {
 
         private $lado;
