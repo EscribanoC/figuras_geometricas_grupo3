@@ -1,13 +1,15 @@
 <?php
     include_once('FiguraGeometrica.php');
+    include_once('punto.php');
     class Cuadrado extends FiguraGeometrica {
 
         private $lado;
         private $esquina;
 
         // Constructor que recibe el punto y el lado del cuadrado
-        public function __construct(Punto $esquina, float $lado) {
-            parent::__construct($esquina);
+        public function __construct(string $nombre, Punto $esquina, float $lado) {
+            parent::__construct($nombre);
+            $this->esquina = $esquina;
             $this->lado = $lado;
         }
 

@@ -17,7 +17,7 @@ function assertEquals($expected, $actual, $testName) {
 
 // Test 1: Prueba el cálculo del área de un cuadrado
 $punto = new Punto(3, 2);
-$cuadrado = new Cuadrado($punto, 5);
+$cuadrado = new Cuadrado("Cuadrado de prueba", $punto, 5);
 $expectedArea = 5 * 5;
 $actualArea = $cuadrado->area();
 assertEquals($expectedArea, $actualArea, "Prueba del cálculo del área");
@@ -26,3 +26,8 @@ assertEquals($expectedArea, $actualArea, "Prueba del cálculo del área");
 $expectedPerimetro = 4 * 5;
 $actualPerimetro = $cuadrado->perimetro();
 assertEquals($expectedPerimetro, $actualPerimetro, "Prueba del cálculo del perímetro");
+
+// Test 3: Prueba si se retorna correctamente el nombre del cuadrado
+$expectedNombre = "Cuadrado de prueba";
+$actualNombre = $circulo->nombre;
+assertEquals($expectedNombre, $actualNombre, "Prueba de obtención del nombre");
