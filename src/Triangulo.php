@@ -27,7 +27,7 @@ class Triangulo extends FiguraGeometrica{
 
     //Getter del atributo 'base'
     public function getBase(){
-        return $base;
+        return $this -> base;
     }
     //Getter del atributo 'altura'
     public function getAltura(){
