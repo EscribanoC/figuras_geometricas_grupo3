@@ -1,5 +1,6 @@
 <?php
 require_once __DIR__ . '/../src/Punto.php';
+
 // Define los métodos abstractos area() y perimetro(), que serán implementados por las subclases.
 // No se puede instanciar directamente.
 
