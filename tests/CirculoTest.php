@@ -15,7 +15,8 @@ function assertEquals($expected, $actual, $testName) {
 // Pruebas unitarias simples para la clase Circulo
 
 // Test 1: Prueba el cálculo del área de un círculo
-$circulo = new Circulo("Círculo de prueba", 5);
+$circulo = new Circulo("Círculo de prueba", new  Punto(1, 1), 5);
+
 $expectedArea = pi() * pow(5, 2);
 $actualArea = $circulo->area();
 assertEquals($expectedArea, $actualArea, "Prueba del cálculo del área");

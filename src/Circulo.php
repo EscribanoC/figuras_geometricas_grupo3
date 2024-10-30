@@ -1,4 +1,5 @@
 <?php
+
 include_once('FiguraGeometrica.php');
 
 // Clase Círculo que extiende FiguraGeometrica
